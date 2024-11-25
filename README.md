@@ -6,4 +6,4 @@ A simple Python script to generate random passwords.
 2. Run the script using Python.
 
 ## About
-Visit my website for more projects and updates: [Your Website] https://ireminiapk.com/
+Visit my website for more projects and updates: https://ireminiapk.com/
